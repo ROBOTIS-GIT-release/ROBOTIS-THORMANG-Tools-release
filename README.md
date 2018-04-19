@@ -1,3 +1,29 @@
+## thormang3_tools (kinetic) - 0.2.0-0
+
+The packages in the `thormang3_tools` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release thormang3_tools -t kinetic -r kinetic --edit` on `Thu, 19 Apr 2018 22:41:04 -0000`
+
+These packages were released:
+- `thormang3_action_editor`
+- `thormang3_offset_tuner_server`
+- `thormang3_tools`
+
+Version of package(s) in repository `thormang3_tools`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-Tools.git
+- release repository: https://github.com/ROBOTIS-GIT-release/ROBOTIS-THORMANG-Tools-release.git
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.40`
+
+
 ## thormang3_tools (kinetic) - 0.1.2-0
 
 The packages in the `thormang3_tools` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release thormang3_tools --track kinetic --rosdistro kinetic --edit` on `Tue, 23 May 2017 15:15:05 -0000`
