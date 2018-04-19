@@ -1,0 +1,38 @@
+ros-kinetic-thormang3-tools (0.2.0-0xenial) xenial; urgency=high
+
+  * refactoring to release
+  * added extra functions
+  * modified cmake & package setting for yaml-cpp
+  * fixed "go" command bug
+  * Contributors: Kayman, Zerom, SCH, Pyo
+
+ -- Pyo <pyo@robotis.com>  Fri, 30 Mar 2018 15:00:00 -0000
+
+ros-kinetic-thormang3-tools (0.1.2-0xenial) xenial; urgency=high
+
+  * updated cmake file for ros install
+  * Contributors: SCH
+
+ -- Pyo <pyo@robotis.com>  Mon, 22 May 2017 15:00:00 -0000
+
+ros-kinetic-thormang3-tools (0.1.1-0xenial) xenial; urgency=high
+
+  * added dependencies for action_editor
+  * uploaded action_editor v 1.0
+  * uploaded working files : thormang3_action_editor
+  * Contributors: Jay Song, Zerom
+
+ -- Pyo <pyo@robotis.com>  Mon, 24 Apr 2017 15:00:00 -0000
+
+ros-kinetic-thormang3-tools (0.1.0-0xenial) xenial; urgency=high
+
+  * first public release for Kinetic
+  * modified thormang3_offset_tuner_server/CMakeLists.txt (.cpp file name)
+  * modified thormang3_offset_tuner_server.launch
+  * modified CMakelist.txt / change executable name
+  * ROS C++ Coding Style is applied
+  * Contributors: Jay Song, Zerom, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
+
+
